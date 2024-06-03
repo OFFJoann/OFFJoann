@@ -6,7 +6,7 @@
     ![visitors](https://visitor-badge.glitch.me/badge?page_id=OFFJoann.OFFJoann)
 </p>
 
-### ¡Hola a todos! Soy Juan Duque 👋
+### ¡Hola a todos! Soy Jhoan Duque 👋
 
 <div size='20px'> 😄 
 </div>
