@@ -1,24 +1,18 @@
-<img width="41%" align="right" alt="Github" src="https://github.com/OFFJoann/OFFJoann.github.io/blob/main/assets/images/masthead.png" />
-
 # ¡Hello! <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
-<p align='center'>
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=OFFJoann.OFFJoann)
-</p>
-
-### ¡Hola a todos! Soy Jhoan Duque 👋
+### ¡Hola a todos! Soy Joann 👋
 
 <div size='20px'> 😄 
 </div>
 <div align="left">
 - 🔭 Actualmente estoy trabajando en **Desarrollo de nuevos proyectos web**...<br>
 - 🌱 Estoy aprendiendo en **Nuevas tecnologias web**...<br>
-- 👯 Busco colaborar en **H4ck N3t**...<br>
-- 🤔 Busco ayuda para **Desarrollar sitios**...<br>
+- 👯 Busco nuevos **retos y experiencias como desarrollador**...<br>
+- 🤔 Me encanta **La automatizacion de procesos**...<br>
 - 💬 Pregúntame sobre **Web development y control de infrastructuras**...<br>
-- 📫 Cómo contactarme: **[Email](mailto:tuemail@example.com)**<br>
-- 😄 Pronombres: **Él/Ellos**<br>
-- ⚡ Dato curioso: **Me encanta resolver problemas de algoritmos y participar en hackathons**...<br>
+- 📫 Cómo contactarme: **[Email](mailto:johanduquea10@gmail.com)**<br>
+- 😄 Estoy aprendiendo **Inteligencia artificial**<br>
+- ⚡ Dato curioso: **Me encanta resolver problemas de algoritmos y las cosas complicadas**...<br>
 </div>
 
 <br><br>
