@@ -1,5 +1,3 @@
-# ¡Hello! <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
-
 ### ¡Hola a todos! Soy Joann 👋
 
 <div size='20px'> 😄 
@@ -40,4 +38,4 @@ rid=giphy.gif' width='32px'>
 <a href='https://www.github.com/OFFJoann'> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <a href="https://www.instagram.com/of_johan/"> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'> </a>
 
-## 📊 Mis Estadísticas de GitHub <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&
+## 📊 Mis Estadísticas de GitHub
