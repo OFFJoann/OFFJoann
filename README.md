@@ -1,6 +1,6 @@
 <img width="41%" align="right" alt="Github" src="https://github.com/OFFJoann/OFFJoann.github.io/blob/main/assets/images/masthead.png" />
 
-# ¡Hola, DevOps! <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+# ¡Hello! <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
 <p align='center'>
     ![visitors](https://visitor-badge.glitch.me/badge?page_id=OFFJoann.OFFJoann)
